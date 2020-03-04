@@ -29,5 +29,11 @@
 }
 
 .bitcamp-green {
+  color: white !important;
+  background: #1bc380 !important;
+}
+
+.bitcamp-green:hover {
+  color: white !important;
   background: #1bc380 !important;
 }
